@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "知らざあ言って聞かせやSHOW",
+  "base_artist": "TOKONA-X",
+  "createdAt": "2025-12-01T12:11:25.576882Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "知らざあ言って聞かせやSHOW",
+      "artist": "TOKONA-X",
+      "has_synced": true,
+      "path": "select/01_知らざあ言って聞かせやSHOW_TOKONA-X.lrc"
+    }
+  ]
+}
